@@ -1,0 +1,5 @@
+	LIBRARY		nNotesIPass
+	DESCRIPTION	"Extension manager addin"
+
+	EXPORTS
+		MainEntryPoint		@1
