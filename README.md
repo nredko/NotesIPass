@@ -11,3 +11,12 @@ Implemented using [KeePassHttpClient](http://github.com/nredko/keepasshttpclient
 3. Add the following line to [Notes] section of your notes.ini 
 >`EXTMGR_ADDINS=NotesIPass`
 4. Install [KeePassHttp](http://github.com/pfn/keepasshttp) according instructions.
+
+Request password screen
+[<img src="https://github.com/nredko/NotesIPass/blob/master/img/NotesIPass.png?raw=true">]
+
+KeePassHttp notification
+[<img src="https://github.com/nredko/NotesIPass/blob/master/img/Notification.png?raw=true">]
+
+KeePass password entry
+[<img src="https://github.com/nredko/NotesIPass/blob/master/img/Entry.png?raw=true">]
