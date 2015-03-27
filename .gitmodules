@@ -1,0 +1,3 @@
+[submodule "KeePassHttpClient"]
+	path = KeePassHttpClient
+	url = ssh://git@github.com/nredko/KeePassHttpClient
